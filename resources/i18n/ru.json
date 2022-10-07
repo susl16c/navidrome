@@ -25,7 +25,7 @@
                 "quality": "Качество",
                 "bpm": "BPM",
                 "playDate": "Последнее воспроизведение",
-                "channels": ""
+                "channels": "Каналы"
             },
             "actions": {
                 "addToQueue": "В очередь",
@@ -34,7 +34,7 @@
                 "shuffleAll": "Перемешать",
                 "download": "Скачать",
                 "playNext": "Следующий",
-                "info": ""
+                "info": "Информация"
             }
         },
         "album": {
@@ -60,7 +60,7 @@
                 "shuffle": "Перемешать",
                 "addToPlaylist": "Добавить в плейлист",
                 "download": "Скачать",
-                "info": ""
+                "info": "Информация"
             },
             "lists": {
                 "all": "Все",
@@ -96,7 +96,7 @@
                 "changePassword": "Сменить пароль?",
                 "currentPassword": "Текущий пароль",
                 "newPassword": "Новый пароль",
-                "token": ""
+                "token": "Токен"
             },
             "helperTexts": {
                 "name": "Изменение вступит в силу после следующего входа в систему"
@@ -151,8 +151,8 @@
                 "selectPlaylist": "Выберите плейлист",
                 "addNewPlaylist": "Создать \"%{name}\"",
                 "export": "Экспорт",
-                "makePublic": "",
-                "makePrivate": ""
+                "makePublic": "Сделать публичным",
+                "makePrivate": "Сделать приватным"
             },
             "message": {
                 "duplicate_song": "Повторяющиеся треки",
