@@ -342,8 +342,8 @@
         },
         "albumList": "Альбомы",
         "about": "О нас",
-        "playlists": "",
-        "sharedPlaylists": ""
+        "playlists": "Плейлисты",
+        "sharedPlaylists": "Общие плейлисты"
     },
     "player": {
         "playListsText": "Очередь воспроизведения",
